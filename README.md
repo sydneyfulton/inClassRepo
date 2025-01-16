@@ -1,3 +1,3 @@
 # inClassRepo
 in class test repo
-his is an FDS test repo
+this is an FDS test repo
